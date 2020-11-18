@@ -1,0 +1,5 @@
+cam: 0 0 -2 0 0 0
+light: ambient 20 0 0 0 0 0 0
+light: point 60 -4 0 -6 0 0 0
+sphere: 0 0 0 4 0 191 255 1000
+sphere: 3 0 0 2 255 215 0 1000

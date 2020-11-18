@@ -1,0 +1,4 @@
+cam: 0 0 -3 0 0 0
+light: ambient 20 0 0 0 0 0 0
+light: point 80 -2 -2 -2 0 0 0
+cone: 0 0 0 40 0 1 0  255 0   0 -1

@@ -1,0 +1,8 @@
+cam: 3 2 -60 0 0 0
+light: ambient 20 0 0 0 0 0 0
+light: point 60 3 0 20 0 0 0
+light: directional 20 0 0 0 10 10 -10
+plane: 0 -1 25 0 1 0 0 255 225 200
+plane: -2 0 25 1 0 0 0 255 225 200
+plane: 0 0 100 0 0 1 0 255 225 200
+sphere: 0 2 -30 3 255 255 0 15

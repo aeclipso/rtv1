@@ -1,0 +1,8 @@
+cam: 0 0 0 0 0 90
+light: ambient 10 0 0 0 0 0 0
+light: point 50 0 0 10 0 0 0
+light: directional 20 0 0 0 2 2 0
+sphere: 0 -2 10 1 136 34 82 10
+sphere: 0 2 10 1 217 0 0 100
+sphere: 2 0 10  1 255 140 0 500
+sphere: -2 0 10 1 255 117 111 1000
